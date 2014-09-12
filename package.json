@@ -1,0 +1,18 @@
+{
+  "name": "directiv-test-hyper-helpers",
+  "version": "0.1.0",
+  "description": "test helpers for hyper directiv plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "directiv",
+    "hyper"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hyper-store": "^0.1.0"
+  }
+}
